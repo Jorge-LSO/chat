@@ -1,0 +1,14 @@
+[
+{
+"Nome": "Jorge",
+"foto": "",//opcional
+"audio":"",//opcional
+"Mensagem": "Bem-vindo",
+},
+{
+"Nome": "Ana",
+"foto": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmundodoautomovelparapcd.com.br%2Fwp-content%2Fuploads%2F2019%2F09%2Fnovo-chevrolet-onix-hatch-2020-02.jpg&f=1&nofb=1&ipt=5204f98525776377aa37d0fd44b05cbb45a32f177d886e64327e44609e750c6d",//opcional
+"audio":"",//opcional
+"Mensagem": "Obrigada",
+}
+]
