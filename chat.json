@@ -13,6 +13,20 @@
       "userName": "Jorge",
       "timestamp": 1764591015418,
       "text": "Oi"
+    },
+     {
+      "id": 1764590972525,
+      "userId": 0,
+      "userName": "Jorge 2",
+      "timestamp": 1764590972525,
+      "text": "Tudo bem"
+    },
+    {
+      "id": 1764591015408,
+      "userId": 0,
+      "userName": "Ana Cu",
+      "timestamp": 1764591015408,
+      "text": "Oi"
     }
   ]
 }
