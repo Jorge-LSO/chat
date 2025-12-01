@@ -1,12 +1,11 @@
-[
 {
-"Nome": "Jorge",
-"Mensagem": "Bem-vindo",
-},
-{
-"Nome": "Ana",
-"Mensagem": "Obrigada",
+  "messages": [
+    {
+      "id": 1764588280185,
+      "userId": 0,
+      "userName": "Jorge",
+      "timestamp": 1764588280185,
+      "text": "Opa"
+    }
+  ]
 }
-
-]
-
