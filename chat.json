@@ -1,39 +1,11 @@
 {
   "messages": [
     {
-      "id": 1764588280185,
+      "id": 1764590972555,
       "userId": 0,
       "userName": "Jorge",
-      "timestamp": 1764588280185,
-      "text": "Opa"
-    },
-    {
-      "id": 1764588297438,
-      "userId": 0,
-      "userName": "Jorge",
-      "timestamp": 1764588297438,
-      "text": "Tudo bom"
-    },
-    {
-      "id": 1764588298344,
-      "userId": 0,
-      "userName": "Ana",
-      "timestamp": 1764588298344,
-      "text": "Tudo bom"
-    },
-    {
-      "id": 1764589684542,
-      "userId": 0,
-      "userName": "Jorge",
-      "timestamp": 1764589684542,
-      "text": "Blitz perto do friburguense "
-    },
-    {
-      "id": 1764588298345,
-      "userId": 0,
-      "userName": "Ana",
-      "timestamp": 1764588298345,
-      "text": "ok"
-    },
+      "timestamp": 1764590972555,
+      "text": "Tudo bem"
+    }
   ]
 }
